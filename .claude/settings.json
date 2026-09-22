@@ -7,7 +7,8 @@
       "mcp__Atarim_Live__wordpress-mcp-list-tools",
       "mcp__Atarim_Live__sites-get",
       "mcp__Atarim_Live__pages-list",
-      "mcp__Atarim_Live__sites-get-screenshots"
+      "mcp__Atarim_Live__sites-get-screenshots",
+      "mcp__Atarim_Live__wordpress-mcp-call-tool"
     ]
   }
 }
